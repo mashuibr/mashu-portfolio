@@ -755,6 +755,9 @@ section,
   background: var(--background-color);
   border: 2px solid var(--accent-color);
 }
+.button-container{
+  text-align: centre
+}
 #download-resume {
   display : inline-block;
   color: var(--contrast-color);
