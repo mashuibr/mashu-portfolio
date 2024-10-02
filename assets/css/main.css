@@ -756,7 +756,7 @@ section,
   border: 2px solid var(--accent-color);
 }
 .button-container{
-  text-align: centre
+  text-align: center
 }
 #download-resume {
   display : inline-block;
