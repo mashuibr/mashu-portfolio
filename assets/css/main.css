@@ -756,6 +756,7 @@ section,
   border: 2px solid var(--accent-color);
 }
 #download-resume {
+  display : inline-block;
   color: var(--contrast-color);
   background: var(--accent-color);
   border: 0;
